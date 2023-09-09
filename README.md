@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Mruk</h1>
 🔭 I’m currently learning **programming :)**
+
 📫 How to reach me **samuelmruk2000@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
